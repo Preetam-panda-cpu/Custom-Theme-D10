@@ -10,6 +10,7 @@ base theme: false
 
 regions:
   branding: 'Branding'
+   header: 'Header'
   navigation: 'Main navigation'
   search: 'Search'
   featured: 'Featured'
